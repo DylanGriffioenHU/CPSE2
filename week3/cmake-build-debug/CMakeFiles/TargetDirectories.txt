@@ -1,0 +1,5 @@
+/mnt/c/Users/dylan/CLionProjects/CPSE2-Opdracht3/week3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/dylan/CLionProjects/CPSE2-Opdracht3/week3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/dylan/CLionProjects/CPSE2-Opdracht3/week3/cmake-build-debug/HCT/week3/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/dylan/CLionProjects/CPSE2-Opdracht3/week3/cmake-build-debug/HCT/week3/CMakeFiles/week3.dir
+/mnt/c/Users/dylan/CLionProjects/CPSE2-Opdracht3/week3/cmake-build-debug/HCT/week3/CMakeFiles/edit_cache.dir

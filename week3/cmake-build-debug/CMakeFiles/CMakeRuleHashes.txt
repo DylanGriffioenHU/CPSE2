@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+978595311f54c07770d19edb62da0711 HCT/week3/test.txt
