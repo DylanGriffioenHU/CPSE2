@@ -128,6 +128,33 @@ week3/fast:
 	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/build
 .PHONY : week3/fast
 
+mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.o: mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.o
+
+# target to build an object file
+mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.i: mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.i
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.i
+
+# target to preprocess a source file
+mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.i:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.i
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.i
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.s: mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.s
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.s
+
+# target to generate assembly for a file
+mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.s:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.s
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.s
+
 mnt/c/Users/dylan/CLionProjects/CPSE2/week3/circle.o: mnt/c/Users/dylan/CLionProjects/CPSE2/week3/circle.cpp.o
 
 .PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week3/circle.o
@@ -236,6 +263,195 @@ mnt/c/Users/dylan/CLionProjects/CPSE2/week3/picture.cpp.s:
 	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week3/picture.cpp.s
 .PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week3/picture.cpp.s
 
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.o: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.o
+
+# target to build an object file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.i: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.i
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.i
+
+# target to preprocess a source file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.i:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.i
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.i
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.s: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.s
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.s
+
+# target to generate assembly for a file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.s:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.s
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.s
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.o: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.o
+
+# target to build an object file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.i: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.i
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.i
+
+# target to preprocess a source file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.i:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.i
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.i
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.s: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.s
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.s
+
+# target to generate assembly for a file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.s:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.s
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.s
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.o: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.o
+
+# target to build an object file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.i: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.i
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.i
+
+# target to preprocess a source file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.i:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.i
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.i
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.s: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.s
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.s
+
+# target to generate assembly for a file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.s:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.s
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.s
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.o: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.o
+
+# target to build an object file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.i: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.i
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.i
+
+# target to preprocess a source file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.i:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.i
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.i
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.s: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.s
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.s
+
+# target to generate assembly for a file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.s:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.s
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.s
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.o: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.o
+
+# target to build an object file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.i: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.i
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.i
+
+# target to preprocess a source file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.i:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.i
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.i
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.s: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.s
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.s
+
+# target to generate assembly for a file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.s:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.s
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.s
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.o: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.o
+
+# target to build an object file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.i: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.i
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.i
+
+# target to preprocess a source file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.i:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.i
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.i
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.s: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.s
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.s
+
+# target to generate assembly for a file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.s:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.s
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.s
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.o: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.o
+
+# target to build an object file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.i: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.i
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.i
+
+# target to preprocess a source file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.i:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.i
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.i
+
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.s: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.s
+
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.s
+
+# target to generate assembly for a file
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.s:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.s
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.s
+
 mnt/c/Users/dylan/lib/HWLIB/library/hwlib.o: mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp.o
 
 .PHONY : mnt/c/Users/dylan/lib/HWLIB/library/hwlib.o
@@ -272,6 +488,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... week3"
 	@echo "... edit_cache"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.o"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.i"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.s"
 	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week3/circle.o"
 	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week3/circle.i"
 	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week3/circle.s"
@@ -284,6 +503,27 @@ help:
 	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week3/picture.o"
 	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week3/picture.i"
 	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week3/picture.s"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.o"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.i"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.s"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.o"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.i"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.s"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.o"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.i"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.s"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.o"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.i"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.s"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.o"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.i"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.s"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.o"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.i"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.s"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.o"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.i"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.s"
 	@echo "... mnt/c/Users/dylan/lib/HWLIB/library/hwlib.o"
 	@echo "... mnt/c/Users/dylan/lib/HWLIB/library/hwlib.i"
 	@echo "... mnt/c/Users/dylan/lib/HWLIB/library/hwlib.s"

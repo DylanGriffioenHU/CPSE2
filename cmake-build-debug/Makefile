@@ -111,6 +111,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named dilate
+
+# Build rule for target.
+dilate: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 dilate
+.PHONY : dilate
+
+# fast build rule for target.
+dilate/fast:
+	$(MAKE) -f HCT/dilate/CMakeFiles/dilate.dir/build.make HCT/dilate/CMakeFiles/dilate.dir/build
+.PHONY : dilate/fast
+
+#=============================================================================
 # Target rules for targets named week1
 
 # Build rule for target.
@@ -136,6 +149,19 @@ week3/fast:
 	$(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/build
 .PHONY : week3/fast
 
+#=============================================================================
+# Target rules for targets named week4
+
+# Build rule for target.
+week4: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 week4
+.PHONY : week4
+
+# fast build rule for target.
+week4/fast:
+	$(MAKE) -f HCT/week4/CMakeFiles/week4.dir/build.make HCT/week4/CMakeFiles/week4.dir/build
+.PHONY : week4/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -144,8 +170,10 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... dilate"
 	@echo "... week1"
 	@echo "... week3"
+	@echo "... week4"
 .PHONY : help
 
 

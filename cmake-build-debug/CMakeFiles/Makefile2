@@ -60,6 +60,56 @@ CMAKE_SOURCE_DIR = /mnt/c/Users/dylan/CLionProjects/CPSE2
 CMAKE_BINARY_DIR = /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug
 
 #=============================================================================
+# Directory level rules for directory HCT/dilate
+
+# Convenience name for "all" pass in the directory.
+HCT/dilate/all: HCT/dilate/CMakeFiles/dilate.dir/all
+
+.PHONY : HCT/dilate/all
+
+# Convenience name for "clean" pass in the directory.
+HCT/dilate/clean: HCT/dilate/CMakeFiles/dilate.dir/clean
+
+.PHONY : HCT/dilate/clean
+
+# Convenience name for "preinstall" pass in the directory.
+HCT/dilate/preinstall:
+
+.PHONY : HCT/dilate/preinstall
+
+#=============================================================================
+# Target rules for target HCT/dilate/CMakeFiles/dilate.dir
+
+# All Build rule for target.
+HCT/dilate/CMakeFiles/dilate.dir/all:
+	$(MAKE) -f HCT/dilate/CMakeFiles/dilate.dir/build.make HCT/dilate/CMakeFiles/dilate.dir/depend
+	$(MAKE) -f HCT/dilate/CMakeFiles/dilate.dir/build.make HCT/dilate/CMakeFiles/dilate.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10 "Built target dilate"
+.PHONY : HCT/dilate/CMakeFiles/dilate.dir/all
+
+# Build rule for subdir invocation for target.
+HCT/dilate/CMakeFiles/dilate.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles 10
+	$(MAKE) -f CMakeFiles/Makefile2 HCT/dilate/CMakeFiles/dilate.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles 0
+.PHONY : HCT/dilate/CMakeFiles/dilate.dir/rule
+
+# Convenience name for target.
+dilate: HCT/dilate/CMakeFiles/dilate.dir/rule
+
+.PHONY : dilate
+
+# clean rule for target.
+HCT/dilate/CMakeFiles/dilate.dir/clean:
+	$(MAKE) -f HCT/dilate/CMakeFiles/dilate.dir/build.make HCT/dilate/CMakeFiles/dilate.dir/clean
+.PHONY : HCT/dilate/CMakeFiles/dilate.dir/clean
+
+# clean rule for target.
+clean: HCT/dilate/CMakeFiles/dilate.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Directory level rules for directory HCT/week1
 
 # Convenience name for "all" pass in the directory.
@@ -84,12 +134,12 @@ HCT/week1/preinstall:
 HCT/week1/CMakeFiles/week1.dir/all:
 	$(MAKE) -f HCT/week1/CMakeFiles/week1.dir/build.make HCT/week1/CMakeFiles/week1.dir/depend
 	$(MAKE) -f HCT/week1/CMakeFiles/week1.dir/build.make HCT/week1/CMakeFiles/week1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Built target week1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26 "Built target week1"
 .PHONY : HCT/week1/CMakeFiles/week1.dir/all
 
 # Build rule for subdir invocation for target.
 HCT/week1/CMakeFiles/week1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles 16
 	$(MAKE) -f CMakeFiles/Makefile2 HCT/week1/CMakeFiles/week1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles 0
 .PHONY : HCT/week1/CMakeFiles/week1.dir/rule
@@ -134,12 +184,12 @@ HCT/week3/preinstall:
 HCT/week3/CMakeFiles/week3.dir/all:
 	$(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/depend
 	$(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=9,10,11,12,13,14 "Built target week3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=27,28,29,30,31,32,33,34,35,36,37,38,39,40 "Built target week3"
 .PHONY : HCT/week3/CMakeFiles/week3.dir/all
 
 # Build rule for subdir invocation for target.
 HCT/week3/CMakeFiles/week3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles 14
 	$(MAKE) -f CMakeFiles/Makefile2 HCT/week3/CMakeFiles/week3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles 0
 .PHONY : HCT/week3/CMakeFiles/week3.dir/rule
@@ -156,6 +206,56 @@ HCT/week3/CMakeFiles/week3.dir/clean:
 
 # clean rule for target.
 clean: HCT/week3/CMakeFiles/week3.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Directory level rules for directory HCT/week4
+
+# Convenience name for "all" pass in the directory.
+HCT/week4/all: HCT/week4/CMakeFiles/week4.dir/all
+
+.PHONY : HCT/week4/all
+
+# Convenience name for "clean" pass in the directory.
+HCT/week4/clean: HCT/week4/CMakeFiles/week4.dir/clean
+
+.PHONY : HCT/week4/clean
+
+# Convenience name for "preinstall" pass in the directory.
+HCT/week4/preinstall:
+
+.PHONY : HCT/week4/preinstall
+
+#=============================================================================
+# Target rules for target HCT/week4/CMakeFiles/week4.dir
+
+# All Build rule for target.
+HCT/week4/CMakeFiles/week4.dir/all:
+	$(MAKE) -f HCT/week4/CMakeFiles/week4.dir/build.make HCT/week4/CMakeFiles/week4.dir/depend
+	$(MAKE) -f HCT/week4/CMakeFiles/week4.dir/build.make HCT/week4/CMakeFiles/week4.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=41,42,43,44,45,46,47,48,49,50,51 "Built target week4"
+.PHONY : HCT/week4/CMakeFiles/week4.dir/all
+
+# Build rule for subdir invocation for target.
+HCT/week4/CMakeFiles/week4.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles 11
+	$(MAKE) -f CMakeFiles/Makefile2 HCT/week4/CMakeFiles/week4.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles 0
+.PHONY : HCT/week4/CMakeFiles/week4.dir/rule
+
+# Convenience name for target.
+week4: HCT/week4/CMakeFiles/week4.dir/rule
+
+.PHONY : week4
+
+# clean rule for target.
+HCT/week4/CMakeFiles/week4.dir/clean:
+	$(MAKE) -f HCT/week4/CMakeFiles/week4.dir/build.make HCT/week4/CMakeFiles/week4.dir/clean
+.PHONY : HCT/week4/CMakeFiles/week4.dir/clean
+
+# clean rule for target.
+clean: HCT/week4/CMakeFiles/week4.dir/clean
 
 .PHONY : clean
 

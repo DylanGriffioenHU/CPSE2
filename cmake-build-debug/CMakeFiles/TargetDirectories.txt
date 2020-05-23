@@ -1,8 +1,14 @@
 /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate/CMakeFiles/dilate.dir
+/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate/CMakeFiles/edit_cache.dir
 /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1/CMakeFiles/rebuild_cache.dir
 /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1/CMakeFiles/week1.dir
 /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1/CMakeFiles/edit_cache.dir
 /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week3/CMakeFiles/rebuild_cache.dir
 /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week3/CMakeFiles/week3.dir
 /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week3/CMakeFiles/edit_cache.dir
+/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week4/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week4/CMakeFiles/week4.dir
+/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week4/CMakeFiles/edit_cache.dir

@@ -43,12 +43,16 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
+  "HCT/dilate/CMakeFiles/CMakeDirectoryInformation.cmake"
   "HCT/week1/CMakeFiles/CMakeDirectoryInformation.cmake"
   "HCT/week3/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "HCT/week4/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "HCT/dilate/CMakeFiles/dilate.dir/DependInfo.cmake"
   "HCT/week1/CMakeFiles/week1.dir/DependInfo.cmake"
   "HCT/week3/CMakeFiles/week3.dir/DependInfo.cmake"
+  "HCT/week4/CMakeFiles/week4.dir/DependInfo.cmake"
   )

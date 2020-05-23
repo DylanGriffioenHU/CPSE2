@@ -88,9 +88,201 @@ HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/main.
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/main.cpp.o.provides.build: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/main.cpp.o
 
 
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o: HCT/week1/CMakeFiles/week1.dir/flags.make
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.i"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp > CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.i
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.s"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.s
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o.requires:
+
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o.requires
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o.provides: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o.requires
+	$(MAKE) -f HCT/week1/CMakeFiles/week1.dir/build.make HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o.provides.build
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o.provides
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o.provides.build: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o
+
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o: HCT/week1/CMakeFiles/week1.dir/flags.make
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.i"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp > CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.i
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.s"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.s
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o.requires:
+
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o.requires
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o.provides: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o.requires
+	$(MAKE) -f HCT/week1/CMakeFiles/week1.dir/build.make HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o.provides.build
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o.provides
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o.provides.build: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o
+
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o: HCT/week1/CMakeFiles/week1.dir/flags.make
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.i"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp > CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.i
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.s"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.s
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.requires:
+
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.requires
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.provides: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.requires
+	$(MAKE) -f HCT/week1/CMakeFiles/week1.dir/build.make HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.provides.build
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.provides
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.provides.build: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o
+
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o: HCT/week1/CMakeFiles/week1.dir/flags.make
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.i"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp > CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.i
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.s"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.s
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.requires:
+
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.requires
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.provides: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.requires
+	$(MAKE) -f HCT/week1/CMakeFiles/week1.dir/build.make HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.provides.build
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.provides
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.provides.build: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o
+
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o: HCT/week1/CMakeFiles/week1.dir/flags.make
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.i"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp > CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.i
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.s"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.s
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o.requires:
+
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o.requires
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o.provides: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o.requires
+	$(MAKE) -f HCT/week1/CMakeFiles/week1.dir/build.make HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o.provides.build
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o.provides
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o.provides.build: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o
+
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o: HCT/week1/CMakeFiles/week1.dir/flags.make
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.i"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp > CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.i
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.s"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.s
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o.requires:
+
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o.requires
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o.provides: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o.requires
+	$(MAKE) -f HCT/week1/CMakeFiles/week1.dir/build.make HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o.provides.build
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o.provides
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o.provides.build: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o
+
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o: HCT/week1/CMakeFiles/week1.dir/flags.make
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.i"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp > CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.i
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.s"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.s
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o.requires:
+
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o.requires
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o.provides: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o.requires
+	$(MAKE) -f HCT/week1/CMakeFiles/week1.dir/build.make HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o.provides.build
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o.provides
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o.provides.build: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o
+
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o: HCT/week1/CMakeFiles/week1.dir/flags.make
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.i"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp > CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.i
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.s"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.s
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o.requires:
+
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o.requires
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o.provides: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o.requires
+	$(MAKE) -f HCT/week1/CMakeFiles/week1.dir/build.make HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o.provides.build
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o.provides
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o.provides.build: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o
+
+
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/ball.cpp.o: HCT/week1/CMakeFiles/week1.dir/flags.make
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/ball.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/ball.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/ball.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/ball.cpp.o"
 	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/ball.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/ball.cpp
 
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/ball.cpp.i: cmake_force
@@ -114,7 +306,7 @@ HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graph
 
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/moving_rectangle.cpp.o: HCT/week1/CMakeFiles/week1.dir/flags.make
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/moving_rectangle.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/moving_rectangle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/moving_rectangle.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/moving_rectangle.cpp.o"
 	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/moving_rectangle.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/moving_rectangle.cpp
 
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/moving_rectangle.cpp.i: cmake_force
@@ -138,7 +330,7 @@ HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graph
 
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/action.cpp.o: HCT/week1/CMakeFiles/week1.dir/flags.make
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/action.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/action.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/action.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/action.cpp.o"
 	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/action.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/action.cpp
 
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/action.cpp.i: cmake_force
@@ -160,33 +352,9 @@ HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graph
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/action.cpp.o.provides.build: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/action.cpp.o
 
 
-HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o: HCT/week1/CMakeFiles/week1.dir/flags.make
-HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o"
-	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp
-
-HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.i"
-	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp > CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.i
-
-HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.s"
-	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.s
-
-HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o.requires:
-
-.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o.requires
-
-HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o.provides: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o.requires
-	$(MAKE) -f HCT/week1/CMakeFiles/week1.dir/build.make HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o.provides.build
-.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o.provides
-
-HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o.provides.build: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o
-
-
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/graphics_object.cpp.o: HCT/week1/CMakeFiles/week1.dir/flags.make
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/graphics_object.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/graphics_object.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/graphics_object.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/graphics_object.cpp.o"
 	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/graphics_object.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/graphics_object.cpp
 
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/graphics_object.cpp.i: cmake_force
@@ -208,9 +376,33 @@ HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graph
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/graphics_object.cpp.o.provides.build: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/graphics_object.cpp.o
 
 
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o: HCT/week1/CMakeFiles/week1.dir/flags.make
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.i"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp > CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.i
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.s"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp -o CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.s
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o.requires:
+
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o.requires
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o.provides: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o.requires
+	$(MAKE) -f HCT/week1/CMakeFiles/week1.dir/build.make HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o.provides.build
+.PHONY : HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o.provides
+
+HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o.provides.build: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o
+
+
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp.o: HCT/week1/CMakeFiles/week1.dir/flags.make
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp.o: /mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp.o"
 	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week1 && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/week1.dir/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp.o -c /mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp
 
 HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp.i: cmake_force
@@ -233,11 +425,19 @@ HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp.o.p
 
 
 week1: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/main.cpp.o
+week1: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o
+week1: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o
+week1: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o
+week1: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o
+week1: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o
+week1: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o
+week1: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o
+week1: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o
 week1: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/ball.cpp.o
 week1: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/moving_rectangle.cpp.o
 week1: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/action.cpp.o
-week1: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o
 week1: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/graphics_object.cpp.o
+week1: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o
 week1: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp.o
 week1: HCT/week1/CMakeFiles/week1.dir/build.make
 
@@ -249,11 +449,19 @@ HCT/week1/CMakeFiles/week1.dir/build: week1
 .PHONY : HCT/week1/CMakeFiles/week1.dir/build
 
 HCT/week1/CMakeFiles/week1.dir/requires: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/main.cpp.o.requires
+HCT/week1/CMakeFiles/week1.dir/requires: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o.requires
+HCT/week1/CMakeFiles/week1.dir/requires: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o.requires
+HCT/week1/CMakeFiles/week1.dir/requires: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.requires
+HCT/week1/CMakeFiles/week1.dir/requires: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.requires
+HCT/week1/CMakeFiles/week1.dir/requires: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o.requires
+HCT/week1/CMakeFiles/week1.dir/requires: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o.requires
+HCT/week1/CMakeFiles/week1.dir/requires: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o.requires
+HCT/week1/CMakeFiles/week1.dir/requires: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o.requires
 HCT/week1/CMakeFiles/week1.dir/requires: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/ball.cpp.o.requires
 HCT/week1/CMakeFiles/week1.dir/requires: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/moving_rectangle.cpp.o.requires
 HCT/week1/CMakeFiles/week1.dir/requires: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/action.cpp.o.requires
-HCT/week1/CMakeFiles/week1.dir/requires: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o.requires
 HCT/week1/CMakeFiles/week1.dir/requires: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/graphics_object.cpp.o.requires
+HCT/week1/CMakeFiles/week1.dir/requires: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp.o.requires
 HCT/week1/CMakeFiles/week1.dir/requires: HCT/week1/CMakeFiles/week1.dir/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp.o.requires
 
 .PHONY : HCT/week1/CMakeFiles/week1.dir/requires

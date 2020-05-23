@@ -1,5 +1,15 @@
 /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/dylan/CLionProjects/CPSE2
 
+Makefile found in: /mnt/c/Users/dylan/CLionProjects/CPSE2/dilate
+Looking for source for dilate
+-- File: "hwlib.cpp"
+-- File hwlib.cpp found as /mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp
+-- File: "main.cpp"
+-- Target loaded: dilate
+------------------------------
+
+
+
 Makefile found in: /mnt/c/Users/dylan/CLionProjects/CPSE2/week1
 Looking for source for week1
 -- File: "graphics/ball.cpp"
@@ -8,10 +18,10 @@ Looking for source for week1
 -- File graphics/moving_rectangle.cpp found as /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/moving_rectangle.cpp
 -- File: "graphics/action.cpp"
 -- File graphics/action.cpp found as /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/action.cpp
--- File: "graphics/rectangle.cpp"
--- File graphics/rectangle.cpp found as /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp
 -- File: "graphics/graphics_object.cpp"
 -- File graphics/graphics_object.cpp found as /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/graphics_object.cpp
+-- File: "graphics/rectangle.cpp"
+-- File graphics/rectangle.cpp found as /mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/rectangle.cpp
 -- File: "hwlib.cpp"
 -- File hwlib.cpp found as /mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp
 -- File: "main.cpp"
@@ -32,6 +42,16 @@ Looking for source for week3
 -- File hwlib.cpp found as /mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp
 -- File: "main.cpp"
 -- Target loaded: week3
+------------------------------
+
+
+
+Makefile found in: /mnt/c/Users/dylan/CLionProjects/CPSE2/week4
+Looking for source for week4
+-- File: "hwlib.cpp"
+-- File hwlib.cpp found as /mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp
+-- File: "main.cpp"
+-- Target loaded: week4
 ------------------------------
 
 

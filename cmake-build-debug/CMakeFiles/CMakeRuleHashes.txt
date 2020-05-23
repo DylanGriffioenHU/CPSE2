@@ -1,3 +1,5 @@
 # Hashes of file build rules.
+1900e90ee3f2198c710d28fea602d559 HCT/dilate/test.txt
 c05e4e8bba79c09c35cca99df6abf33b HCT/week1/test.txt
 8e8d99683b049d34712831f4f4855f28 HCT/week3/test.txt
+f2fb03354e839344a307cb7140b57fd8 HCT/week4/test.txt
