@@ -47,6 +47,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "HCT/week1/CMakeFiles/CMakeDirectoryInformation.cmake"
   "HCT/week3/CMakeFiles/CMakeDirectoryInformation.cmake"
   "HCT/week4/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "HCT/week5/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -55,4 +56,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "HCT/week1/CMakeFiles/week1.dir/DependInfo.cmake"
   "HCT/week3/CMakeFiles/week3.dir/DependInfo.cmake"
   "HCT/week4/CMakeFiles/week4.dir/DependInfo.cmake"
+  "HCT/week5/CMakeFiles/week5.dir/DependInfo.cmake"
   )

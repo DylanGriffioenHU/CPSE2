@@ -1,9 +1,10 @@
 //
-// Created by dylan on 22-4-2020.
+// Created by dylan on 26-5-2020.
 //
 
-#ifndef TIC_TAC_TOE_GRAPHICAL_USER_INTERFACE_HPP
-#define TIC_TAC_TOE_GRAPHICAL_USER_INTERFACE_HPP
+#ifndef CPSE2_GRAPHICAL_USER_INTERFACE_HPP
+#define CPSE2_GRAPHICAL_USER_INTERFACE_HPP
+
 
 #include <vector>
 #include <SFML/Graphics.hpp>
@@ -11,19 +12,16 @@
 #include "board_builder.hpp"
 #include "game_logic.hpp"
 
-/// This class serves the user a gui for playing the game
 class graphical_user_interface : public game_interface {
 private:
     sf::RenderWindow &window;
-    float x_pos = -1;
-    float y_pos = -1;
 public:
-    explicit graphical_user_interface(sf::RenderWindow &a_window);
+    explicit  graphical_user_interface(sf::RenderWindow &window);
     void draw_image(bool player, float pos_x, float pos_y);
 
-    void draw_tie_image(float pos_x, float pos_y);
+    void draw_end_screen_image(std::string file_name, float x_pos, float y_pos);
 
-    void draw_moves(std::vector<game_moves> &moves) override ;
+    void draw_moves(std::vector<game_moves> &moves) override;
 
     void end_game(float game_state) override;
 
@@ -31,4 +29,4 @@ public:
 };
 
 
-#endif //TIC_TAC_TOE_GRAPHICAL_USER_INTERFACE_HPP
+#endif //CPSE2_GRAPHICAL_USER_INTERFACE_HPP

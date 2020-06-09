@@ -112,57 +112,33 @@ HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/mai
 HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o.provides.build: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o
 
 
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o: HCT/dilate/CMakeFiles/dilate.dir/flags.make
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o"
-	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o: HCT/dilate/CMakeFiles/dilate.dir/flags.make
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp
 
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.i"
-	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp > CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.i
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.i"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp > CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.i
 
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.s"
-	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp -o CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.s
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.s"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp -o CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.s
 
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.requires:
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o.requires:
 
-.PHONY : HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.requires
+.PHONY : HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o.requires
 
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.provides: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.requires
-	$(MAKE) -f HCT/dilate/CMakeFiles/dilate.dir/build.make HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.provides.build
-.PHONY : HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.provides
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o.provides: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o.requires
+	$(MAKE) -f HCT/dilate/CMakeFiles/dilate.dir/build.make HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o.provides.build
+.PHONY : HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o.provides
 
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.provides.build: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o
-
-
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o: HCT/dilate/CMakeFiles/dilate.dir/flags.make
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o"
-	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp
-
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.i"
-	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp > CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.i
-
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.s"
-	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp -o CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.s
-
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.requires:
-
-.PHONY : HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.requires
-
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.provides: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.requires
-	$(MAKE) -f HCT/dilate/CMakeFiles/dilate.dir/build.make HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.provides.build
-.PHONY : HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.provides
-
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.provides.build: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o.provides.build: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o
 
 
 HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o: HCT/dilate/CMakeFiles/dilate.dir/flags.make
 HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o"
 	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp
 
 HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.i: cmake_force
@@ -186,7 +162,7 @@ HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/gam
 
 HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o: HCT/dilate/CMakeFiles/dilate.dir/flags.make
 HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o"
 	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp
 
 HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.i: cmake_force
@@ -208,9 +184,57 @@ HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/gam
 HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o.provides.build: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o
 
 
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o: HCT/dilate/CMakeFiles/dilate.dir/flags.make
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp
+
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.i"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp > CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.i
+
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.s"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp -o CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.s
+
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.requires:
+
+.PHONY : HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.requires
+
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.provides: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.requires
+	$(MAKE) -f HCT/dilate/CMakeFiles/dilate.dir/build.make HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.provides.build
+.PHONY : HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.provides
+
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.provides.build: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o
+
+
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o: HCT/dilate/CMakeFiles/dilate.dir/flags.make
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp
+
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.i"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp > CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.i
+
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.s"
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp -o CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.s
+
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.requires:
+
+.PHONY : HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.requires
+
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.provides: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.requires
+	$(MAKE) -f HCT/dilate/CMakeFiles/dilate.dir/build.make HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.provides.build
+.PHONY : HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.provides
+
+HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.provides.build: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o
+
+
 HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o: HCT/dilate/CMakeFiles/dilate.dir/flags.make
 HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o"
 	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp
 
 HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.i: cmake_force
@@ -230,30 +254,6 @@ HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/gra
 .PHONY : HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o.provides
 
 HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o.provides.build: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o
-
-
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o: HCT/dilate/CMakeFiles/dilate.dir/flags.make
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o"
-	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o -c /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp
-
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.i"
-	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp > CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.i
-
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.s"
-	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp -o CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.s
-
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o.requires:
-
-.PHONY : HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o.requires
-
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o.provides: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o.requires
-	$(MAKE) -f HCT/dilate/CMakeFiles/dilate.dir/build.make HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o.provides.build
-.PHONY : HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o.provides
-
-HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o.provides.build: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o
 
 
 HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp.o: HCT/dilate/CMakeFiles/dilate.dir/flags.make
@@ -282,12 +282,12 @@ HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp.o
 
 dilate: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o
 dilate: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o
-dilate: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o
-dilate: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o
+dilate: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o
 dilate: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o
 dilate: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o
+dilate: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o
+dilate: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o
 dilate: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o
-dilate: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o
 dilate: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp.o
 dilate: HCT/dilate/CMakeFiles/dilate.dir/build.make
 
@@ -300,12 +300,12 @@ HCT/dilate/CMakeFiles/dilate.dir/build: dilate
 
 HCT/dilate/CMakeFiles/dilate.dir/requires: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp.o.requires
 HCT/dilate/CMakeFiles/dilate.dir/requires: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o.requires
-HCT/dilate/CMakeFiles/dilate.dir/requires: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.requires
-HCT/dilate/CMakeFiles/dilate.dir/requires: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.requires
+HCT/dilate/CMakeFiles/dilate.dir/requires: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o.requires
 HCT/dilate/CMakeFiles/dilate.dir/requires: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp.o.requires
 HCT/dilate/CMakeFiles/dilate.dir/requires: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o.requires
+HCT/dilate/CMakeFiles/dilate.dir/requires: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.cpp.o.requires
+HCT/dilate/CMakeFiles/dilate.dir/requires: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp.o.requires
 HCT/dilate/CMakeFiles/dilate.dir/requires: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o.requires
-HCT/dilate/CMakeFiles/dilate.dir/requires: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o.requires
 HCT/dilate/CMakeFiles/dilate.dir/requires: HCT/dilate/CMakeFiles/dilate.dir/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp.o.requires
 
 .PHONY : HCT/dilate/CMakeFiles/dilate.dir/requires

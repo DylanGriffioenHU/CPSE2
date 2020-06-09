@@ -277,6 +277,66 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week4/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="week5">
+				<Option output="/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week5/CMakeFiles/week5.dir/week5.objlib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week5"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/dylan/lib/HWLIB/library"/>
+					<Add directory="/mnt/c/Users/dylan/Catch2/single_include"/>
+					<Add directory="/mnt/c/Users/dylan/Catch2/single_include/catch2"/>
+					<Add directory="/mnt/c/Users/dylan/boost_1_69_0"/>
+					<Add directory="/mnt/c/Users/dylan/lib/BMPTK"/>
+					<Add directory="/mnt/c/Users/dylan/lib/BMPTK/targets"/>
+					<Add directory="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week5/Makefile&quot;  VERBOSE=1 week5"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week5/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week5/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week5/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="week5/fast">
+				<Option output="/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week5/CMakeFiles/week5.dir/week5.objlib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week5"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/dylan/lib/HWLIB/library"/>
+					<Add directory="/mnt/c/Users/dylan/Catch2/single_include"/>
+					<Add directory="/mnt/c/Users/dylan/Catch2/single_include/catch2"/>
+					<Add directory="/mnt/c/Users/dylan/boost_1_69_0"/>
+					<Add directory="/mnt/c/Users/dylan/lib/BMPTK"/>
+					<Add directory="/mnt/c/Users/dylan/lib/BMPTK/targets"/>
+					<Add directory="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week5/Makefile&quot;  VERBOSE=1 week5/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week5/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week5/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week5/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 		</Build>
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/dilate/test.txt">
 			<Option target="dilate"/>
@@ -302,11 +362,18 @@
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week4/test.txt.rule">
 			<Option target="week4"/>
 		</Unit>
+		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week5/test.txt">
+			<Option target="week5"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week5/test.txt.rule">
+			<Option target="week5"/>
+		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/dilate/main.cpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week1/graphics/action.cpp">
 			<Option target="week1"/>
@@ -367,102 +434,119 @@
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/board_builder.hpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.cpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/command_line_interface.hpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_data.hpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_interface.hpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.cpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_logic.hpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.hpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.hpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp">
+		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.hpp">
+		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.hpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.hpp">
 			<Option target="dilate"/>
 			<Option target="week1"/>
 			<Option target="week3"/>
 			<Option target="week4"/>
+			<Option target="week5"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/dylan/CLionProjects/CPSE2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

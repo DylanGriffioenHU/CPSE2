@@ -55,6 +55,16 @@ Looking for source for week4
 ------------------------------
 
 
+
+Makefile found in: /mnt/c/Users/dylan/CLionProjects/CPSE2/week5
+Looking for source for week5
+-- File: "hwlib.cpp"
+-- File hwlib.cpp found as /mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp
+-- File: "main.cpp"
+-- Target loaded: week5
+------------------------------
+
+
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug

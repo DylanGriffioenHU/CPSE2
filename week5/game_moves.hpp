@@ -1,19 +1,17 @@
 //
-// Created by dylan on 22-4-2020.
+// Created by dylan on 23-5-2020.
 //
 
-#ifndef TIC_TAC_TOE_GAME_MOVES_HPP
-#define TIC_TAC_TOE_GAME_MOVES_HPP
+#ifndef CPSE2_GAME_MOVES_H
+#define CPSE2_GAME_MOVES_H
 
 #include <array>
-#include <iostream>
-#include "game_data.hpp"
 
-/// This class saves and can return the player and coordinates of a done move
+/// This class stores the coordinates of a move made by a player and which player that was
 class game_moves {
 private:
     bool player;
-    std::array<int,2> coordinates;
+    std::array<int, 2> coordinates;
 public:
     game_moves(const bool &player, const int &x_cor, const int &y_cor);
     [[nodiscard]] bool get_player() const;
@@ -21,4 +19,4 @@ public:
 };
 
 
-#endif //TIC_TAC_TOE_GAME_MOVES_HPP
+#endif //CPSE2_GAME_MOVES_H

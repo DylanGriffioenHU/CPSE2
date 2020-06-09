@@ -1,12 +1,13 @@
 //
-// Created by dylan on 22-4-2020.
+// Created by dylan on 23-5-2020.
 //
 
-#include "terminal_game_setup.hpp"
+#include "tic_tac_toe_setup.hpp"
 
-///Main function of application
-int main(int argc, char * argv[]){
-    terminal_game_setup gameSetup;
-    gameSetup.start_game_setup();
+
+/// This just creates and starts the game
+int main(int argc, char * argv[]) {
+    tic_tac_toe_setup ticTacToeSetup;
+    ticTacToeSetup.start_tic_tac_toe_setup();
     return 0;
-};
+}

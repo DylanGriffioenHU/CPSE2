@@ -1,16 +1,14 @@
 //
-// Created by dylan on 22-4-2020.
+// Created by dylan on 26-5-2020.
 //
 
-#ifndef TIC_TAC_TOE_COMAND_LINE_INTERFACE_H
-#define TIC_TAC_TOE_COMAND_LINE_INTERFACE_H
-
+#ifndef CPSE2_COMMAND_LINE_INTERFACE_HPP
+#define CPSE2_COMMAND_LINE_INTERFACE_HPP
 
 #include "game_interface.hpp"
 #include <iostream>
 
-/// This class allows a player to play the game via a command line interface
-class comand_line_interface : public game_interface {
+class command_line_interface : public game_interface{
 private:
     inline static bool pos_found = false;
 public:
@@ -22,4 +20,4 @@ public:
 };
 
 
-#endif //TIC_TAC_TOE_COMAND_LINE_INTERFACE_H
+#endif //CPSE2_COMMAND_LINE_INTERFACE_HPP

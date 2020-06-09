@@ -1,16 +1,17 @@
 //
-// Created by dylan on 22-4-2020.
+// Created by dylan on 23-5-2020.
 //
 
-#ifndef TIC_TAC_TOE_GAME_DATA_HPP
-#define TIC_TAC_TOE_GAME_DATA_HPP
+#ifndef CPSE2_GAME_DATA_HPP
+#define CPSE2_GAME_DATA_HPP
 
 #include <array>
 #include <vector>
 
-/// This class holds all the data that is used in game_logic so all the data
-/// is on a central place and during iterations only values need to either be added or removed
-/// the initialization of vectors and other values will remain
+/// This class holds all the data that is used in game_logic
+/// This way all the data is in a central place and when the game is running
+/// values only need to added or removed
+
 class data{
 public:
     data(){};
@@ -30,21 +31,18 @@ public:
     } gameData;
 
     void reset_to_default(){
-        gameData.left_vector            = {};
-        gameData.mid_vector             = {};
-        gameData.right_vector           = {};
-        gameData.top_horizon_vector     = {};
-        gameData.mid_horizon_vector     = {};
-        gameData.bot_horizon_vector     = {};
-        gameData.diagonal_up            = {};
-        gameData.diagonal_down          = {};
-        gameData.positions              = {};
-        gameData.player                 = false;
-        gameData.x                      = -1;
-        gameData.y                      = -1;
+        gameData.left_vector                        = {};
+        gameData.mid_vector                         = {};
+        gameData.right_vector                       = {};
+        gameData.top_horizon_vector                 = {};
+        gameData.mid_horizon_vector                 = {};
+        gameData.bot_horizon_vector                 = {};
+        gameData.diagonal_up                        = {};
+        gameData.diagonal_down                      = {};
+        gameData.player                             = false;
+        gameData.x                                  = -1;
+        gameData.y                                  = -1;
     }
-
 };
 
-
-#endif //TIC_TAC_TOE_GAME_DATA_HPP
+#endif //CPSE2_GAME_DATA_HPP

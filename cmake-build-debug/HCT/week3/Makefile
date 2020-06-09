@@ -425,32 +425,32 @@ mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.s:
 	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.s
 .PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.s
 
-mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.o: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.o: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o
 
-.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.o
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.o
 
 # target to build an object file
-mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o:
-	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o
-.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o
 
-mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.i: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.i
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.i: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.i
 
-.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.i
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.i
 
 # target to preprocess a source file
-mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.i:
-	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.i
-.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.i
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.i:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.i
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.i
 
-mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.s: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.s
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.s: mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.s
 
-.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.s
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.s
 
 # target to generate assembly for a file
-mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.s:
-	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.s
-.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.s
+mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.s:
+	cd /mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug && $(MAKE) -f HCT/week3/CMakeFiles/week3.dir/build.make HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.s
+.PHONY : mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.s
 
 mnt/c/Users/dylan/lib/HWLIB/library/hwlib.o: mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp.o
 
@@ -521,9 +521,9 @@ help:
 	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.o"
 	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.i"
 	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.s"
-	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.o"
-	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.i"
-	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.s"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.o"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.i"
+	@echo "... mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.s"
 	@echo "... mnt/c/Users/dylan/lib/HWLIB/library/hwlib.o"
 	@echo "... mnt/c/Users/dylan/lib/HWLIB/library/hwlib.i"
 	@echo "... mnt/c/Users/dylan/lib/HWLIB/library/hwlib.s"

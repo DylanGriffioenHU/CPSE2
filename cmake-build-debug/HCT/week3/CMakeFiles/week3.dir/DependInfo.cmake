@@ -15,7 +15,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp" "/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/game_moves.cpp.o"
   "/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp" "/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/graphical_user_interface.cpp.o"
   "/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp" "/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/main.cpp.o"
-  "/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp" "/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/terminal_game_setup.cpp.o"
+  "/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp" "/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/CLionProjects/CPSE2/week5/tic_tac_toe_setup.cpp.o"
   "/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp" "/mnt/c/Users/dylan/CLionProjects/CPSE2/cmake-build-debug/HCT/week3/CMakeFiles/week3.dir/mnt/c/Users/dylan/lib/HWLIB/library/hwlib.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

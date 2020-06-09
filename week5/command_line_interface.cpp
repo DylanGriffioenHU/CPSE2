@@ -1,27 +1,30 @@
 //
-// Created by dylan on 22-4-2020.
+// Created by dylan on 26-5-2020.
 //
 
 #include "command_line_interface.hpp"
 
-void comand_line_interface::draw_moves(std::vector<game_moves> &moves) {
-    comand_line_interface::pos_found = false;
+
+/// Draws the moves and board on the terminal window
+/// \param moves: a vector containing the playermade moves
+void command_line_interface::draw_moves(std::vector<game_moves> &moves) {
+    command_line_interface::pos_found = false;
     std::cout << std::endl;
-    for(int y= 0; y < 3; y++){
+    for(int y = 0; y < 3; y++){
         for(int x = 0; x < 3; x++){
-            comand_line_interface::pos_found = false;
+            command_line_interface::pos_found = false;
             for(auto& move : moves){
                 if(move.get_move()[0] == x && move.get_move()[1] == y){
-                    comand_line_interface::pos_found = true;
+                    command_line_interface::pos_found = true;
                     if(move.get_player()){
                         std::cout << " X ";
-                    } else{
+                    } else {
                         std::cout << " O ";
                     }
                 }
             }
-            if(!comand_line_interface::pos_found){
-                std::cout<< "   ";
+            if(!command_line_interface::pos_found){
+                std::cout << "   ";
             }
             if(x < 2){
                 std::cout << " | ";
@@ -34,16 +37,20 @@ void comand_line_interface::draw_moves(std::vector<game_moves> &moves) {
     std::cout << std::endl;
 }
 
-void comand_line_interface::end_game(const float game_state) {
+/// This function  prints the endgame state either player 1 or 2 wins or tie
+/// \param game_state: an int representing the game state, 1(win), 0(los) or 0.5(tie)
+void command_line_interface::end_game(float game_state) {
     if(game_state == 0.5){
-        std::cout << std::endl << "Game ended in draw" << std::endl;
-    } else{
-        std::cout << std::endl << "Player number " << game_state + 1 << " has won the game " << std::endl;
+        std::cout << std::endl << "Game ended in a draw" << std::endl;
+    } else {
+        std::cout << std::endl << "Player number " << game_state + 1 << " has won the game" << std::endl;
     }
-
 }
 
-game_moves comand_line_interface::get_move(const bool player) {
+/// This function lets a player input a move and then saves it
+/// \param player: a player number 0 for player 1 and 1 for player 2
+/// \return the move a player made which is also saved in the game moves class
+game_moves command_line_interface::get_move(const bool player) {
     int x,y;
     std::cout << std::endl << "Player number " << player + 1 << " Please give an x coordinate: ";
     std::cin >> x;

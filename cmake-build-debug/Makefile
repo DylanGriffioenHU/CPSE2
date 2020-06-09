@@ -162,6 +162,19 @@ week4/fast:
 	$(MAKE) -f HCT/week4/CMakeFiles/week4.dir/build.make HCT/week4/CMakeFiles/week4.dir/build
 .PHONY : week4/fast
 
+#=============================================================================
+# Target rules for targets named week5
+
+# Build rule for target.
+week5: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 week5
+.PHONY : week5
+
+# fast build rule for target.
+week5/fast:
+	$(MAKE) -f HCT/week5/CMakeFiles/week5.dir/build.make HCT/week5/CMakeFiles/week5.dir/build
+.PHONY : week5/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -174,6 +187,7 @@ help:
 	@echo "... week1"
 	@echo "... week3"
 	@echo "... week4"
+	@echo "... week5"
 .PHONY : help
 
 
